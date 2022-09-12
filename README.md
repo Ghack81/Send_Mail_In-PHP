@@ -1,2 +1,2 @@
-# Send_Mail_In-PHP
+# Send Mail In PHP
 Send Mail in Php
